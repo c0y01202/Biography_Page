@@ -99,6 +99,7 @@ header h1 {
 	display: inline;
   }
   header a {
+	  font-family: 'Courier New', Courier, monospace;
 	text-decoration: none;
 	color: var(--whitesmoke);
   }
