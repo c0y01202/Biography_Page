@@ -8,6 +8,8 @@ The following were steps taken to complete the assignment:
 -Assure that the website had images which would include images that would take the end-user to sites of deployed applications.
 -Assure that contact information for the potential employee was availble to the end-user.
 
+![Portfolio_Index](https://user-images.githubusercontent.com/97765679/154576222-28679436-ec98-4430-b46e-3721bbdb342b.png)
+
 The website can be found live at: 
 https://c0y01202.github.io/Biography_Page/
 
