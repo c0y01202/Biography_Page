@@ -90,6 +90,35 @@ header .socialNetworkNavBar .socialNetworkNav {
 header .socialNetworkNavBar .socialNetworkNav img:hover {
 	opacity: 0.5;
 }
+
+header h1 {
+	font-weight: bold;
+	font-size: 36px;
+	color: var(--lightgrey);
+	margin: 0;
+	display: inline;
+  }
+  header a {
+	text-decoration: none;
+	color: var(--whitesmoke);
+  }
+
+header nav {
+	float: right;
+	margin: 7px 0;
+  }
+  
+  header nav ul li {
+	display: inline;
+  }
+  
+  header nav ul li a {
+	margin: 0 30px;
+	font-weight: lighter;
+	font-size: 22px;
+  }
+
+
 /* Main Content sections */
 .mainContent .section1 {
 	display: block;
