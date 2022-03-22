@@ -1,3 +1,4 @@
+![biography_homepage](https://user-images.githubusercontent.com/97765679/159390488-98a7b1c6-5be6-4a0b-a795-1f0ffea5cf35.png)
 # Biography_Page
 
 The following were steps taken to complete the assignment:
