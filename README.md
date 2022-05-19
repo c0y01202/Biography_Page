@@ -1,4 +1,5 @@
-![biography_homepage](https://user-images.githubusercontent.com/97765679/159390488-98a7b1c6-5be6-4a0b-a795-1f0ffea5cf35.png)
+![biography_homepage](https://user-images.githubusercontent.com/97765679/169190043-7752bf85-bd6a-41b3-8ce6-8d81eec7b160.png)
+
 # Biography_Page
 
 The following were steps taken to complete the assignment:
